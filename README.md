@@ -49,6 +49,11 @@ Linting results are documented  at <https://docs.flathub.org/linter>
 
 ## History
 
+### 2.0.3
+
+- Removed Granite module
+- Seperate Locales
+
 ### 2.0.2
 
 - Renaming from *com.github.louis77.tuner* to *io.github.tuner_labs.tuner* per flathub #7468
