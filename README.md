@@ -52,7 +52,7 @@ Linting results are documented  at <https://docs.flathub.org/linter>
 ### 2.0.3
 
 - Removed Granite module
-- Seperate Locales
+- Separate Locales
 
 ### 2.0.2
 
