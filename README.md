@@ -10,7 +10,7 @@ Flathub Manifest and build information for *io.github.tuner_labs.tuner*
 
 ## Builds
 
-[Build Bot](https://builds.flathub.org/status/io.github.tuner_labs.tuner)
+<a href="https://builds.flathub.org/status/io.github.tuner_labs.tuner" target="_blank">Build Bot</a>
 
 ### Assets
 
