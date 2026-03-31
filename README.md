@@ -49,6 +49,10 @@ Linting results are documented  at <https://docs.flathub.org/linter>
 
 ## History
 
+### 2.1.1
+
+- Added Adawaita-dark extension
+
 ### 2.0.3
 
 - Removed Granite module
